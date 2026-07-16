@@ -7,13 +7,13 @@
 ### On Linux or MacOs : (Run these command in the terminal)
 
 - git clone https://github.com/frginlv/QR-Code-generator-.git
-- cd QR-Code-generator
+- cd QR-Code-generator-/'qr codes generator'
 - python3 main.py
 
 ### On Windows : (Run these command in the terminal)
 
 - git clone https://github.com/frginlv/QR-Code-generator-.git
-- cd QR-Code-generator
+- cd QR-Code-generator-/'qr codes generator'
 - python main.py
 
 
