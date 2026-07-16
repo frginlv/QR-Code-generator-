@@ -16,5 +16,5 @@
 - cd QR-Code-generator-/'qr codes generator'
 - python main.py
 
-
+## After runing these commands , check the same directory to find the qrcode as a png file.
 
